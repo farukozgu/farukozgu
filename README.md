@@ -22,7 +22,6 @@ I'm a passionate **Front-End Developer** with a focus on creating intuitive, use
 ### 💡 Fun Facts
 - I’m passionate about coding and constantly strive to enhance my skills and knowledge.
 - I love experimenting with **web design** and **UI/UX** principles to create visually appealing and intuitive user experiences.
-- When I’m not coding, I enjoy playing **PUBG** and working on personal projects.
 
 ### 📫 Get In Touch
 - You can reach me at [LinkedIn](https://www.linkedin.com/in/farukozgu) or [Email](mailto:farukozgu@example.com).
