@@ -14,10 +14,6 @@ I'm a passionate **Front-End Developer** with a focus on creating intuitive, use
 - Continuously improving my front-end skills, focusing on **UX/UI** and best practices.
 - Exploring **CSS Grid** and **Flexbox** for responsive designs.
 
-### 📂 My Projects
-- [**To-Do App**](https://github.com/farukozgu/to_do_app): A simple and elegant to-do list app built with **Vanilla JavaScript**.
-- [**Responsive Agenda Layout**](https://github.com/farukozgu/agenda-layout): A responsive agenda layout that works flawlessly on all screen sizes.
-
 ### 🔧 Currently Learning
 - Diving deeper into **React** and understanding advanced topics like **State Management** and **React Hooks**.
 - Enhancing my understanding of **TypeScript** to build more robust applications.
