@@ -1,27 +1,27 @@
-# 👋 Hi, I'm Faruk!
+<h1 align="center">Hi 👋, I'm Faruk</h1>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
-I'm a passionate **Front-End Developer** with a focus on creating intuitive, user-friendly web applications. Currently, I work at **Pfizer** and **Niceye Group** as a Front-End Developer. I’m always looking to learn new technologies and challenge myself with new projects. 
+- 🌱 I’m currently learning **react**
 
-### 🚀 Technologies I Work With
+- 👨‍💻 All of my projects are available at [farukozgu.com](farukozgu.com)
 
-- **Languages**: JavaScript, HTML, CSS
-- **Frameworks & Libraries**: React, jQuery
-- **Tools**: Git, VSCode, Webpack, npm
-- **Design**: Figma, Adobe XD
+- 💬 Ask me about **css, react and tailwind**
 
-### 💻 What I'm Working On
-- Building a variety of dynamic and responsive web applications using **React** and **JavaScript**.
-- Continuously improving my front-end skills, focusing on **UX/UI** and best practices.
-- Exploring **CSS Grid** and **Flexbox** for responsive designs.
+- 📫 How to reach me **faruk.ozgufb@gmail.com**
 
-### 🔧 Currently Learning
-- Diving deeper into **React** and understanding advanced topics like **State Management** and **React Hooks**.
-- Enhancing my understanding of **TypeScript** to build more robust applications.
-- Learning about **Backend Development** to become a full-stack developer in the future.
+- ⚡ Fun fact **I love middle earth**
 
-### 💡 Fun Facts
-- I’m passionate about coding and constantly strive to enhance my skills and knowledge.
-- I love experimenting with **web design** and **UI/UX** principles to create visually appealing and intuitive user experiences.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/farukozgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="farukozgu" height="30" width="40" /></a>
+<a href="https://instagram.com/faruk.ozgu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="faruk.ozgu" height="30" width="40" /></a>
+</p>
 
-### 📫 Get In Touch
-- You can reach me at [LinkedIn](https://www.linkedin.com/in/farukozgu) or [Email](mailto:farukozgu@example.com).
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farukozgu&show_icons=true&locale=en&layout=compact" alt="farukozgu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=farukozgu&show_icons=true&locale=en" alt="farukozgu" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farukozgu&" alt="farukozgu" /></p>
