@@ -1,18 +1,32 @@
-# 💫 About Me:
-🌱 I’m currently learning React.js<br>👨‍💻 All of my projects are available at farukozgu.com<br>💬 Ask me about html, css, javascript and react<br>📫 How to reach me faruk.ozgufb@gmail.com<br>⚡ Fun fact I'm a fan of Middle Earth
+# 👋 Hi, I'm Faruk!
 
+I'm a passionate **Front-End Developer** with a focus on creating intuitive, user-friendly web applications. Currently, I work at **Pfizer** and **Niceye Group** as a Front-End Developer. I’m always looking to learn new technologies and challenge myself with new projects. 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faruk.ozgu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farukozgu) 
+### 🚀 Technologies I Work With
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=farukozgu&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=farukozgu&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=farukozgu&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Languages**: JavaScript, HTML, CSS
+- **Frameworks & Libraries**: React, jQuery
+- **Tools**: Git, VSCode, Webpack, npm
+- **Design**: Figma, Adobe XD
 
----
-[![](https://visitcount.itsvg.in/api?id=farukozgu&icon=0&color=0)](https://visitcount.itsvg.in)
+### 💻 What I'm Working On
+- Building a variety of dynamic and responsive web applications using **React** and **JavaScript**.
+- Continuously improving my front-end skills, focusing on **UX/UI** and best practices.
+- Exploring **CSS Grid** and **Flexbox** for responsive designs.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 📂 My Projects
+- [**To-Do App**](https://github.com/farukozgu/to_do_app): A simple and elegant to-do list app built with **Vanilla JavaScript**.
+- [**Responsive Agenda Layout**](https://github.com/farukozgu/agenda-layout): A responsive agenda layout that works flawlessly on all screen sizes.
+
+### 🔧 Currently Learning
+- Diving deeper into **React** and understanding advanced topics like **State Management** and **React Hooks**.
+- Enhancing my understanding of **TypeScript** to build more robust applications.
+- Learning about **Backend Development** to become a full-stack developer in the future.
+
+### 💡 Fun Facts
+- I’m passionate about coding and constantly strive to enhance my skills and knowledge.
+- I love experimenting with **web design** and **UI/UX** principles to create visually appealing and intuitive user experiences.
+- When I’m not coding, I enjoy playing **PUBG** and working on personal projects.
+
+### 📫 Get In Touch
+- You can reach me at [LinkedIn](https://www.linkedin.com/in/farukozgu) or [Email](mailto:farukozgu@example.com).
