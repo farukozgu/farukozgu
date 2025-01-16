@@ -2,7 +2,7 @@
 <h3>A passionate frontend developer from Turkey</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning react<br>👨‍💻 All of my projects are available at farukozgu.com<br>💬 Ask me about css, react and tailwind<br>📫 How to reach me faruk.ozgufb@gmail.com<br>⚡ Fun fact I love middle earth
+🌱 I’m currently learning react<br>👨‍💻 All of my projects are available at [farukozgu.com](https://www.farukozgu.com/)<br>💬 Ask me about css, react and tailwind<br>📫 How to reach me faruk.ozgufb@gmail.com<br>⚡ Fun fact I love middle earth
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faruk.ozgu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farukozgu) 
