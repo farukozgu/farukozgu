@@ -1,3 +1,5 @@
+![Banner](https://github.com/farukozgu/assets/blob/main/e7a0628b192b44f66afc01d46ba17dd2.jpg?raw=true)
+
 <h1>Hi 👋, I'm Faruk</h1>
 <h3>A passionate frontend developer from Turkey</h3>
 
