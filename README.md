@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Developer | React.js & Tailwind Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Building+ideas+into+code+⚡;Passionate+about+clean+UI+%26+UX;Learning+and+improving+every+day+🚀" alt="Typing SVG" />
+ ![neo-sleeping-at-his-desk-v0-ebpofutbqznd1](https://github.com/user-attachments/assets/44b354a7-87f4-4ab6-a56b-39ccb86b9073)
 </p>
 
 ---
@@ -52,7 +52,7 @@
   <a href="https://www.linkedin.com/in/farukozgu/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:farukozgu@example.com">
+  <a href="mailto:farukozgufb@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
