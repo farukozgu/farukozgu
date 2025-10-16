@@ -4,7 +4,7 @@
 <h3 align="center">Frontend Developer | React.js & Tailwind Enthusiast</h3>
 
 <p align="center">
-<img width="600" height="600" alt="neo-sleeping-at-his-desk-v0-ebpofutbqznd1" src="https://github.com/user-attachments/assets/02d5e650-2f50-4bda-9ced-612c38b06a18" />
+<img width="400" height="400" alt="neo-sleeping-at-his-desk-v0-ebpofutbqznd1" src="https://github.com/user-attachments/assets/02d5e650-2f50-4bda-9ced-612c38b06a18" />
 </p>
 
 ---
